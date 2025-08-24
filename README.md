@@ -1,4 +1,5 @@
-# Heeyeon Yoon - Portfolio
+# Heeyeon Yoon - Portfolio 👩🏻‍💻
+
 
 🎉 This is my personal portfolio! Click the link below for a quick view:  
 
