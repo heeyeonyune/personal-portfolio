@@ -42,3 +42,25 @@ pnpm dev
 ```
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the portfolio.
+
+---
+
+## Deployment
+
+Follow these steps to deploy this portfolio with Vercel:
+
+1. Create a new GitHub repository.
+2. Push your portfolio to GitHub.
+3. Deploy with Vercel:
+   - Go to [Vercel](https://vercel.com/)
+   - Sign up or log in with GitHub
+   - Click "New Project"
+   - Import your GitHub repository
+   - Vercel will automatically detect Next.js
+   - Click "Deploy"
+
+Your portfolio will be live in minutes with a free Vercel domain, e.g., [personal-portfolio-lilac-zeta.vercel.app](https://personal-portfolio-lilac-zeta.vercel.app/). You can later add a custom domain in your Vercel project settings.
+
+---
+
+**Built with:** Next.js, Tailwind CSS, Framer Motion, Vercel
