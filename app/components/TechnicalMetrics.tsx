@@ -61,7 +61,7 @@ export default function TechnicalMetrics() {
 							>
 								<h4 className="text-lg font-semibold text-gray-300">Google AI Hackathon 2025 — June 2025</h4>
 								<ul className="mt-2 space-y-2 text-gray-400">
-									<li>• Project: <em>"Bard’s Brain"</em> – AI-powered D&D world and character generator</li>
+									<li>• Project: <em>&quot;Bard’s Brain&quot;</em> – AI-powered D&D world and character generator</li>
 									<li>• Role: Backend Developer (FastAPI, Gemini, Imagen API)</li>
 									<li>• Built REST API integrating AI text & image generation</li>
 								</ul>
