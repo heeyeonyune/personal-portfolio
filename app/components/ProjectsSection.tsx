@@ -30,7 +30,7 @@ export default function ProjectsSection() {
 								'Easy extension with scoreboard and new flags',
 							],
 							tech: ['Swift', 'SwiftUI', 'Xcode', 'JSON'],
-							image: '/flag-game.png',
+							image: '/flag_game.png',
 						},
 						{
 							title: "Bard's Brain (Team Project)",
@@ -42,7 +42,7 @@ export default function ProjectsSection() {
 								'Imagen for AI-generated fantasy visuals',
 							],
 							tech: ['Python', 'Gemini API', 'Imagen', 'Streamlit', 'HTML/CSS'],
-							image: '/flag-game.png',
+							image: '/bardsbrain.png',
 						},
 						{
 							title: 'Study Runner (Team Project)',
@@ -54,7 +54,7 @@ export default function ProjectsSection() {
 								'Blended education with engaging gameplay',
 							],
 							tech: ['Godot', 'GDScript', 'OpenAI API', 'JSON'],
-							image: '/flag-game.png',
+							image: '/studyrunner.png',
 						},
 						{
 							title: 'Library Website',
@@ -66,43 +66,19 @@ export default function ProjectsSection() {
 								'Database managed via phpMyAdmin',
 							],
 							tech: ['HTML', 'CSS', 'PHP', 'MySQL'],
-							image: '/flag-game.png',
+							image: '/library.png',
 						},
 						{
-							title: 'Sorting Algorithm',
-							description:
-								'Sorting tool for product datasets across production lines with multiple algorithm implementations.',
+							title: 'Blood Pressure Data Analysis',
+							description: 'Analyzed a blood pressure dataset to extract insights using Excel.',
 							details: [
-								'Implemented Merge Sort, Binary Search, and Linear Search',
-								'Performance comparison across algorithms',
-								'Circular Queue integration for efficient data handling',
+								'Cleaned and validated multi-sheet dataset',
+								'Generated descriptive statistics and pivot tables',
+								'Visualized variables with box plots',
+								'Performed correlation and hypothesis analysis'
 							],
-							tech: ['C'],
-							image: '/flag-game.png',
-						},
-						{
-							title: 'Fruit Gambits (Team Project)',
-							description:
-								'Microcontroller-based fruit catching game with sound effects and GPIO handling.',
-							details: [
-								'Developed using C and Assembly with PlatformIO',
-								'Integrated LCD screen, breadboard, and GPIO inputs',
-								'Implemented win/loss logic and sound effects',
-							],
-							tech: ['C', 'Assembly', 'PlatformIO', 'MCU'],
-							image: '/flag-game.png',
-						},
-						{
-							title: 'National Museum of Korea Website',
-							description:
-								'Responsive web page introducing the National Museum of Korea with interactive design.',
-							details: [
-								'Built with HTML, CSS, and JavaScript',
-								'Focused on accessibility and navigation',
-								'Enhanced engagement with visuals and clean design',
-							],
-							tech: ['HTML', 'CSS', 'JavaScript'],
-							image: '/flag-game.png',
+							tech: ['Excel', 'Pivot Tables', 'Data Visualization', 'Statistics'],
+							image: '/bp_data.png',
 						},
 					].map((project, index) => (
 						<div
