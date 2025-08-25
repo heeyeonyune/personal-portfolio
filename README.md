@@ -3,7 +3,7 @@
 
 🎉 This is my personal portfolio! Click the link below for a quick view:  
 
-[View Live Portfolio](https://personal-portfolio-lilac-zeta.vercel.app/)
+[View Live Portfolio](https://personal-portfolio-git-main-heeyeonyunes-projects.vercel.app/)
 
 ---
 
