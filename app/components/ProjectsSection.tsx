@@ -1,9 +1,9 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { image } from 'framer-motion/client';
+//import { image } from 'framer-motion/client';
 import Image from 'next/image';
-import { useState } from 'react';
+//import { useState } from 'react';
 
 export default function ProjectsSection() {
 	return (
