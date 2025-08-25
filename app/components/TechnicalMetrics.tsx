@@ -120,4 +120,8 @@ export default function TechnicalMetrics() {
 			</div>
 		</section>
 	);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7698cc941a6835a58b7432146da2d9579932cf82

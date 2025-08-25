@@ -43,7 +43,6 @@ export default function ProjectsSection() {
 							],
 							tech: ['Python', 'Gemini API', 'Imagen', 'Streamlit', 'HTML/CSS'],
 							image: '/flag-game.png',
-							
 						},
 						{
 							title: 'Study Runner (Team Project)',

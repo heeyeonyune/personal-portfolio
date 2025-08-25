@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend Developer Portfolio Template
 
 [Demo](https://www.devportfoliotemplates.com/portfolio-templates/backend-developer)
@@ -30,6 +31,32 @@ You can download this template as a ZIP file:
 
 Once you have the template:
 
+=======
+# Heeyeon Yoon - Portfolio 👩🏻‍💻
+
+
+🎉 This is my personal portfolio! Click the link below for a quick view:  
+
+[View Live Portfolio](https://personal-portfolio-lilac-zeta.vercel.app/)
+
+---
+
+## Getting Started
+You have two options to get started with this portfolio:
+
+### Option 1: Clone Repository
+```bash
+git clone https://github.com/yourusername/your-portfolio-repo.git
+cd your-portfolio-repo
+```
+
+### Option 2: Direct Download
+You can download this repository as a ZIP file and extract it locally.
+
+---
+
+## Running the Portfolio
+>>>>>>> 7698cc941a6835a58b7432146da2d9579932cf82
 1. Install dependencies:
 
 ```bash
@@ -52,6 +79,7 @@ pnpm dev
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser to see the portfolio.
 
+<<<<<<< HEAD
 ## Customization
 
 ### Personal Information
@@ -121,12 +149,25 @@ Follow these steps to deploy your portfolio for free using GitHub and Vercel:
 
 3. Deploy with Vercel:
    - Go to [Vercel](https://vercel.com)
+=======
+---
+
+## Deployment
+
+Follow these steps to deploy this portfolio with Vercel:
+
+1. Create a new GitHub repository.
+2. Push your portfolio to GitHub.
+3. Deploy with Vercel:
+   - Go to [Vercel](https://vercel.com/)
+>>>>>>> 7698cc941a6835a58b7432146da2d9579932cf82
    - Sign up or log in with GitHub
    - Click "New Project"
    - Import your GitHub repository
    - Vercel will automatically detect Next.js
    - Click "Deploy"
 
+<<<<<<< HEAD
 Your portfolio will be live in minutes with a free Vercel domain (e.g., `your-repo.vercel.app`). You can later add a custom domain in your Vercel project settings.
 
 ## Support
@@ -138,3 +179,10 @@ If you find these templates helpful, please consider:
 - [Buying me a coffee](https://www.buymeacoffee.com/andreiancu) ☕
 
 For issues and feature requests, please [create an issue](https://github.com/devportfoliotemplates/devportfoliotemplates/issues).
+=======
+Your portfolio will be live in minutes with a free Vercel domain, e.g., [personal-portfolio-lilac-zeta.vercel.app](https://personal-portfolio-lilac-zeta.vercel.app/). You can later add a custom domain in your Vercel project settings.
+
+---
+
+**Built with:** Next.js, Tailwind CSS, Framer Motion, Vercel
+>>>>>>> 7698cc941a6835a58b7432146da2d9579932cf82
