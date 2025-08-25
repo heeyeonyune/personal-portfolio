@@ -18,7 +18,7 @@ export default function ProjectsSection() {
 					💡 &nbsp; Projects
 				</motion.h2>
 
-				<div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+				<div className="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-8 lg:gap-10">
 					{[
 						{
 							title: 'Flag Guessing Game',
@@ -83,9 +83,9 @@ export default function ProjectsSection() {
 					].map((project, index) => (
 						<div
 							key={index}
-							className="group [perspective:1000px] h-[350px]"
+							className="group [perspective:1000px] h-auto"
 						>
-							<div className="relative w-full h-full transition-transform duration-700 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
+							<div className="relative w-full min-h-[350px] transition-transform duration-700 [transform-style:preserve-3d] group-hover:[transform:rotateY(180deg)]">
 							{/* Front */}
 							<motion.div
 								key={index}
