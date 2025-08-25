@@ -22,7 +22,6 @@ You can download this repository as a ZIP file and extract it locally.
 ---
 
 ## Running the Portfolio
->>>>>>> 7698cc941a6835a58b7432146da2d9579932cf82
 1. Install dependencies:
 
 ```bash
